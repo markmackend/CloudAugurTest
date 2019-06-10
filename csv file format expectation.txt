@@ -1,0 +1,2 @@
+date;warehousesales;mvm(first5/last2 days);nflgame;dayafterholiday;inclimate weather (maxtemp>=75||snowfall)
+yyyy-mm-dd;int;char(y/n);char(y/n);char(y/n);char(y/n)
